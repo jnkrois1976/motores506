@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{500BB2EA-CBCB-400C-B847-278C87A9E6F4}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{500BB2EA-CBCB-400C-B847-278C87A9E6F4}|Default">
   <MonoDevelop.Ide.ItemProperties.Motores506 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench>
     <Files>
