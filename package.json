@@ -1,0 +1,33 @@
+{
+  "name": "motores506",
+  "version": "1.0.0",
+  "description": "Motor vehicles for sale",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnkrois1976/motores506.git"
+  },
+  "author": "Juan C Rois",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnkrois1976/motores506/issues"
+  },
+  "homepage": "https://github.com/jnkrois1976/motores506#readme",
+  "dependencies": {
+    "del": "^5.1.0",
+    "npx": "^10.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2"
+  }
+}
