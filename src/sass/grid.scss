@@ -1,6 +1,40 @@
-﻿body {
+﻿body, header, header > section, main, main > section, main > section > div, footer, footer > section, .footerBlocks, .copyright{
     display: grid;
+}
+body {
+    grid-template-rows: 100px auto 200px;
+}
+body, header, main, footer{
     grid-template-columns: repeat(12, 1fr);
-    grid-column-start: 1;
-    grid-column-end: 12;
+    grid-column: span 12;
+}
+header, main, footer {
+    & > section{
+        grid-template-columns: repeat(10, 1fr);
+        grid-column-start: 2;
+        grid-column-end: 12;
+    }
+}
+main{
+    & > section{
+        & > div{
+            grid-column-start: 1;
+            grid-column-end: 11;
+        }
+    }
+}
+footer{
+    & > section{
+        grid-template-rows: auto 30px;
+    }
+}
+.footerBlocks {
+    grid-template-columns: repeat(3, 3fr);
+    grid-column: span 9;
+}
+
+.copyright {
+    grid-template-columns: auto;
+    grid-column: span 10;
+    justify-content: center;
 }

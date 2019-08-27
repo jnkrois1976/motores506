@@ -1,27 +1,26 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{500BB2EA-CBCB-400C-B847-278C87A9E6F4}|Default">
   <MonoDevelop.Ide.ItemProperties.Motores506 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument=".gitignore">
     <Files>
-      <File FileName="src/sass/format.scss" Line="18" Column="41" />
-      <File FileName="src/sass/grid.scss" />
-      <File FileName="src/sass/responsive.scss" Line="3" Column="36" />
+      <File FileName="src/sass/format.scss" Line="11" Column="23" />
+      <File FileName="src/sass/grid.scss" Line="20" Column="17" />
+      <File FileName="src/sass/responsive.scss" Line="3" Column="46" />
       <File FileName="gulpfile.js" Line="39" Column="16" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="17" Column="30" />
+      <File FileName="Views/Shared/_Footer.cshtml" Line="13" Column="10" />
+      <File FileName="Views/Home/Index.cshtml" Line="9" Column="11" />
+      <File FileName="src/js/app.js" Line="8" Column="2" />
+      <File FileName="src/sass/_theme.scss" Line="4" Column="9" />
+      <File FileName="src/sass/_skin.scss" Line="14" Column="19" />
+      <File FileName="Views/Shared/_HeaderPartial.cshtml" Line="5" Column="13" />
+      <File FileName=".gitignore" Line="4" Column="5" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Motores506" expanded="True">
             <Node name="Motores506" expanded="True">
-              <Node name="Models" expanded="True" />
-              <Node name="src" expanded="True">
-                <Node name="js" expanded="True" />
-                <Node name="sass" expanded="True">
-                  <Node name="format.scss" selected="True" />
-                </Node>
-              </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="fonts" expanded="True" />
-              </Node>
+              <Node name=".gitignore" selected="True" />
             </Node>
           </Node>
         </State>

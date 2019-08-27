@@ -2,6 +2,7 @@
 
 APP.config = {
     flags: {
-        myFlag: true
+        myFlag: true,
+        myOtherFlag: false
     }
 }

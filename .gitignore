@@ -1,0 +1,11 @@
+README.txt
+bin/
+obj/
+.vs/
+.DS_Store
+node_modules/
+.vs/Motores506/xs/UserPrefs.xml
+.vs/Motores506/xs/project-cache/Motores506-Debug.json
+.vs/Motores506/xs/sqlite3/storage.ide-wal
+obj/Debug/netcoreapp2.1/Motores506.Views.dll
+obj/Debug/netcoreapp2.1/Motores506.csproj.FileListAbsolute.txt

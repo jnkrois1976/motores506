@@ -1,0 +1,15 @@
+﻿@import "_theme";
+html{
+    color: $dark;
+}
+header{
+    background-color: $accent;
+    color: $lighter;
+}
+main{
+    background-color: $lighter;
+}
+footer{
+    background-color: $dark;
+    color: $light;
+}

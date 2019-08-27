@@ -1,5 +1,5 @@
-﻿@media screen and (min-width: 320px){
-    body{
-        grid-template-columns: 1fr;
+﻿@media screen and (min-device-width: 1200px) {
+    body {
+        grid-template-columns: repeat(12, 1fr);
     }
 }

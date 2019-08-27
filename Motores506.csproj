@@ -19,5 +19,7 @@
     <Folder Include="src\js\" />
     <Folder Include="src\sass\" />
     <Folder Include="wwwroot\fonts\" />
+    <Folder Include="wwwroot\js\" />
+    <Folder Include="wwwroot\images\" />
   </ItemGroup>
 </Project>
